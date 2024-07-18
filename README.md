@@ -1,6 +1,5 @@
 # Stega Tower Defense
-### Designed using Unity 2022.3.6f1 by Nathaniel Wallace
-### Named after part of my loving partner's user handle
+### Designed using Unity 2022.3.6f1
 ---
 # Game Description
 This game is a basic tower defense game, designed as a first major project that implemented everything I had learned so far about programming games using Unity.
